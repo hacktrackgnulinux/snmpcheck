@@ -55,8 +55,8 @@ trap("SIGINT") { exit! }
 # disable verbose
 $VERBOSE = nil
 
-script_name        = 'snmpcheck.rb';
-script_version     = 'v1.9';
+script_name        = 'snmpcheck';
+script_version     = 'v1.9.1';
 script_description = 'SNMP enumerator';
 script_copyright   = 'Copyright (c) 2005-2015';
 script_author      = 'Matteo Cantoni (www.nothink.org)';
