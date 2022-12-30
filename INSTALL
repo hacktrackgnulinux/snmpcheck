@@ -1,0 +1,2 @@
+chmod 775 snmpcheck
+ln -sv /pentest/01/snmpcheck/snmpcheck /usr/bin/snmpcheck
